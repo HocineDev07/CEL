@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="header1_text_size">40sp</dimen>
+    <dimen name="header2_text_size">32sp</dimen>
+    <dimen name="header3_text_size">24sp</dimen>
+    <dimen name="header4_text_size">20sp</dimen>
+    <dimen name="paragraph1_text_size">16sp</dimen>
+    <dimen name="standard_text_size">14sp</dimen>
+    <dimen name="mini_text_size">12sp</dimen>
+    <dimen name="mini2_text_size">10sp</dimen>
+    <dimen name="home_item_size">375dp</dimen>
+</resources>

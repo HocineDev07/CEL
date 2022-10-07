@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">CEL</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="txt_n_phone">رقم الهاتف</string>
+    <string name="txt_mot_de_pass">كلمة المرور</string>
+    <string name="txt_sign_up">تسجيل</string>
+    <string name="txt_password_length">يجب أن تتكون كلمة المرور من 6 أحرف على الأقل</string>
+    <string name="txt_first_last_name">الإسم واللقب</string>
+    <string name="txt_birth_date">تاريخ الميلاد</string>
+    <string name="txt_kaser">قصر</string>
+    <string name="txt_level">المستوى الدراسي</string>
+    <string name="txt_speciality">التخصص</string>
+    <string name="txt_login">تسجيل الدخول</string>
+    <string name="txt_sign_in_to_continue">الرجاء تسجيل الدخول للمتابعة</string>
+    <string name="txt_email">الإيميل</string>
+    <string name="txt_have_account">لا يوجد لديك حساب ؟</string>
+    <string name="txt_fill_in">إملأ الخانة !</string>
+    <string name="txt_fill_field">إملأ الخانات المطلوبة</string>
+    <string name="txt_success_signup">تم التسجيل بنجاح</string>
+    <string name="txt_fail_to_signup">حدث خطأ في التسجيل !</string>
+    <string name="txt_press_again">إضغط مرة أخرى للخروج</string>
+    <string name="email">ClubEtudianLaghouat@gmail.com</string>
+    <string name="txt_my_info">معلوماتي</string>
+    <string name="txt_home">الرئيسية</string>
+    <string name="txt_search">بحث</string>
+    <string name="txt_contact_us">Contact Us</string>
+    <string name="txt_term_condition">الأحكام والشروط</string>
+    <string name="txt_logout">تسجيل الخروج</string>
+    <string name="txt_logout_confirmation">هل أنت متأكد من تسجيل الخروج !</string>
+    <string name="txt_yes">نعم</string>
+    <string name="txt_no">لا</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_other_skills">مهارات أخرى</string>
+    <string name="txt_email_exists">هذا الإيميل مرتبط بحساب آخر !</string>
+    <string name="txt_success_sign_up">تم التسجيل بنجاح</string>
+    <string name="txt_ok">حسنا</string>
+    <string name="txt_still_learning">قيد الدراسة</string>
+    <string name="txt_graduate">متخرج</string>
+    <string name="txt_univ">متخرج من جامعة</string>
+    <string name="txt_year_graduate">سنة التخرج</string>
+    <string name="txt_cel">نادي الطلبة الجامعيين\nالأغواط</string>
+    <string name="txt_status">الحالة</string>
+    <string name="txt_working_on_it">في طور الإنجاز</string>
+    <string name="txt_date_inscription">تاريخ التسجيل</string>
+
+
+</resources>

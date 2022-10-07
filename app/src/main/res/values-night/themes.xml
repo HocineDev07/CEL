@@ -1,0 +1,58 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.CEL" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:windowAnimationStyle">@style/WindowAnimationTransition</item>
+        <item name="materialButtonStyle">@style/ButtonStyle</item>
+        <item name="android:fontFamily">@font/cairo</item>
+        <item name="fontFamily">@font/cairo</item>
+
+    </style>
+
+    <!--  FullScreen  -->
+    <style name="FullScreen" parent="Theme.CEL">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <!-- Button style -->
+    <style name="ButtonStyle" parent="Widget.MaterialComponents.Button">
+        <item name="cornerRadius">30dp</item>
+        <item name="textAllCaps">false</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:paddingLeft">15dp</item>
+        <item name="android:paddingStart">15dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_height">60dp</item>
+    </style>
+
+    <!-- WindowAnimationTransition -->
+    <style name="WindowAnimationTransition">
+        <item name="android:windowEnterAnimation">@anim/fade_in</item>
+        <item name="android:windowExitAnimation">@anim/fade_out</item>
+    </style>
+
+    <!-- Toolbar style -->
+    <style name="ToolbarTheme" parent="@style/ThemeOverlay.AppCompat.ActionBar">
+        <item name="colorControlNormal">@color/white</item>
+    </style>
+
+    <!-- splashScreen style -->
+    <style name="splashScreenTheme" parent="Theme.CEL">
+        <item name="android:windowBackground">@drawable/splash_screen</item>
+    </style>
+
+</resources>

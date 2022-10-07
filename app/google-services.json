@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "460744477363",
+    "firebase_url": "https://clubetudianlaghouat-3a923-default-rtdb.firebaseio.com",
+    "project_id": "clubetudianlaghouat-3a923",
+    "storage_bucket": "clubetudianlaghouat-3a923.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460744477363:android:6a3f3e4e636643fd7d7ec6",
+        "android_client_info": {
+          "package_name": "com.hocinedev.cel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460744477363-kg29aiccg7hiqv69hbg3duhmgtcab76g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hocinedev.cel",
+            "certificate_hash": "bd8f7b4906725cb6705dd106a3278f4ce7e05cf8"
+          }
+        },
+        {
+          "client_id": "460744477363-0jvl397f02omig8hdtmk80snlf5kdb4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9Z4TxbQHsE7djkbNxFLcfFHJiKSubS40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460744477363-0jvl397f02omig8hdtmk80snlf5kdb4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
