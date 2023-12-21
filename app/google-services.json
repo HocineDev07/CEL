@@ -15,6 +15,22 @@
       },
       "oauth_client": [
         {
+          "client_id": "460744477363-3qfbsl0r4crksbn1k6jheno80dhpo1eh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hocinedev.cel",
+            "certificate_hash": "fea2745214973926384b3d18d3e98523d281bd20"
+          }
+        },
+        {
+          "client_id": "460744477363-4hpl9tiuum7su891q5d67uqqhei6kh3r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hocinedev.cel",
+            "certificate_hash": "450be15c1249e294db14809e223f15c8d75b6673"
+          }
+        },
+        {
           "client_id": "460744477363-kg29aiccg7hiqv69hbg3duhmgtcab76g.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
